@@ -1,0 +1,15 @@
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\bin\Debug\Ice cream shop.exe.config
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\bin\Debug\Ice cream shop.exe
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\bin\Debug\Ice cream shop.pdb
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\bin\Debug\Ice cream shop.xml
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice cream shop.vbprojAssemblyReference.cache
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice_cream_shop.Form1.resources
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice_cream_shop.Resources.resources
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice cream shop.vbproj.GenerateResource.cache
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice cream shop.vbproj.CoreCompileInputs.cache
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice cream shop.exe
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice cream shop.xml
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice cream shop.pdb
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\bin\Debug\Guna.UI2.dll
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice cream shop.vbproj.CopyComplete
+C:\Users\sapan\source\repos\Ice cream shop\Ice cream shop\obj\Debug\Ice_cream_shop.Form2.resources
